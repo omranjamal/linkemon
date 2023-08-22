@@ -1,7 +1,7 @@
 {
   "name": "linkemon",
   "description": "Wrapper script around nodemon that will automatically watch all linked modules",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "author": {
     "name": "Mario Casciaro"
   },
@@ -15,7 +15,7 @@
   },
   "preferGlobal": true,
   "peerDependencies": {
-    "nodemon": "^1.18.4"
+    "nodemon": "*"
   },
   "keywords": [
     "nodemon",
